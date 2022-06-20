@@ -5,4 +5,9 @@ H(Y│X)=P(X,Y)log (P(X,Y))/(P(X))=P(X={X_1,X_2,…,X_m },Y={Y_1,Y_2,…,Y_n })l
 # Proposed  Algorithm:
 ALGORITHM 1:  Conditional Joint Entropy based Casual rule discovery
 Pseudo code of the proposed algorithm is presented in the figure below and  Code of this algorithm can be found in COJEC.cpp file at code files.
-! [this is an algorithm] (<img width="215" alt="Screenshot 2022-06-20 171443" src="https://user-images.githubusercontent.com/87864575/174623196-d18297f9-0865-4d58-9feb-389a9b509024.png">)
+
+
+
+
+
+!  (<img width="215" alt="Screenshot 2022-06-20 171443" src="https://user-images.githubusercontent.com/87864575/174623196-d18297f9-0865-4d58-9feb-389a9b509024.png">)
