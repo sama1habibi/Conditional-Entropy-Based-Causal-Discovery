@@ -16,3 +16,4 @@ The pseudo-code of the proposed algorithm is presented in the figure below and t
 
 # Results
 This algorithm discovers the causal rules between the features of cyberstalking data set by computing the conditional entropy of the Cartesian product of all subsets of feature. In this implementation the value of threshold τ is considered equal to 0.08. Thus the implemented algorithm discovers the causal rules of X => Y when the conditional entropy of the sub sets of features (H(Y |X)) is less than 0.08. For τ = 0.08 for cyberstalking data set, the presented algorithm found 116 causal rules for m = 2 and n = 1. Since writing all of the causal rules obtained by implementing the Algorithm 1 is not possible, some of them are represented below:
+[casual rules.txt](https://github.com/sama1habibi/Conditional-Entropy-Based-Causal-Discovery/files/8941503/casual.rules.txt)
