@@ -4,27 +4,5 @@ H(Y│X)=P(X,Y)log (P(X,Y))/(P(X))=P(X={X_1,X_2,…,X_m },Y={Y_1,Y_2,…,Y_n })l
 
 # Proposed  Algorithm:
 ALGORITHM 1:  Conditional Joint Entropy based Casual rule discovery
-INPUT: F,τ
-F:  Feature’s set of f discrete features F={F_1,F_2,…,F_f }, where F_i={V_(1,Fi),V_(2,Fi),…,V_(|Fi|,Fi)}. F_i, st. 1≤i≤f
-τ : a small threshold value
-OUTPUT: W
-W : the set of casual rules X->Y for which the conditional joint entropy is smaller than the threshold τ , i.e. H(Y|X)≤τ
-  for m=1 to f-1\\
-        F^((m))← allSubsetsOfF(F,m)\\ 
-        foreach subset F_S^((m))  of F^((m))\\
-   	F_C^((m))←cartesian Product Of Subset Of Features (F_S^((m) ) )\\
- 	for each X={X_1,X_2,…,X_m }∈ F_C^((m))\\
-                      for n=1 to f-1
-                             F^((n))← all Subsets Of F(F,n)\\
-                            for each subset F_S^((n))  of F^((n))\\
-   	                      F_C^((n))←cartesian Product Of Subset Of Features(F_S^((n) ) )\\
-                                 for each Y={Y_1,Y_2,…,Y_n }∈F_C^((n))\\
-                                            if X∩Y=∅ and H(Y|X) ≤τ\\
-                                                  add the casual rule X→Y to W //X={X_1,X_2,…,X_m }→Y={Y_1,Y_2,…,Y_n }[pdf.pdf](https://github.com/sama1habibi/Conditional-Entropy-Based-Causal-Discovery/files/8941392/pdf.pdf)
-
-
-
-
-
-  return W     //the set of casual rules X->Y for which the conditional joint entropy is smaller than the threshold τ.
- Code of this algorithm can be found in COJEC.cpp file.
+Pseudo code of the proposed algorithm is presented in the figure below and  Code of this algorithm can be found in COJEC.cpp file at code files.
+! [this is an algorithm] (<img width="215" alt="Screenshot 2022-06-20 171443" src="https://user-images.githubusercontent.com/87864575/174623196-d18297f9-0865-4d58-9feb-389a9b509024.png">)
