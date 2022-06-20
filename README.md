@@ -9,21 +9,21 @@ F:  Feature’s set of f discrete features F={F_1,F_2,…,F_f }, where F_i={V_(1
 τ : a small threshold value
 OUTPUT: W
 W : the set of casual rules X->Y for which the conditional joint entropy is smaller than the threshold τ , i.e. H(Y|X)≤τ
-1  for m=1 to f-1
-2        F^((m))← allSubsetsOfF(F,m) 
-3        foreach subset F_S^((m))  of F^((m))
-4   	F_C^((m))←cartesianProductOfSubsetOfFeatures(F_S^((m) ) )
-5 	foreach X={X_1,X_2,…,X_m }∈F_C^((m))
-6                      for n=1 to f-1
-7                             F^((n))← allSubsetsOfF(F,n) 
-8                            foreach subset F_S^((n))  of F^((n))
-9   	                      F_C^((n))←cartesianProductOfSubsetOfFeatures(F_S^((n) ) )
-10                                 foreach Y={Y_1,Y_2,…,Y_n }∈F_C^((n))
-11                                            if X∩Y=∅ and H(Y|X) ≤τ
-12                                                  add the casual rule X→Y to W //X={X_1,X_2,…,X_m }→Y={Y_1,Y_2,…,Y_n }
+  for m=1 to f-1
+        F^((m))← allSubsetsOfF(F,m) 
+        foreach subset F_S^((m))  of F^((m))
+   	F_C^((m))←cartesian Product Of Subset Of Features (F_S^((m) ) )
+ 	for each X={X_1,X_2,…,X_m }∈ F_C^((m))
+                      for n=1 to f-1
+                             F^((n))← allSubsetsOfF(F,n) 
+                            foreach subset F_S^((n))  of F^((n))
+   	                      F_C^((n))←cartesian Product Of Subset Of Features(F_S^((n) ) )
+                                 for each Y={Y_1,Y_2,…,Y_n }∈F_C^((n))
+                                            if X∩Y=∅ and H(Y|X) ≤τ
+                                                  add the casual rule X→Y to W //X={X_1,X_2,…,X_m }→Y={Y_1,Y_2,…,Y_n }
 
 
 
 
-13  return W     //the set of casual rules X->Y for which the conditional joint entropy is smaller than the threshold τ.
+  return W     //the set of casual rules X->Y for which the conditional joint entropy is smaller than the threshold τ.
  Code of this algorithm can be found in COJEC.cpp file.
