@@ -9,18 +9,19 @@ F:  Feature’s set of f discrete features F={F_1,F_2,…,F_f }, where F_i={V_(1
 τ : a small threshold value
 OUTPUT: W
 W : the set of casual rules X->Y for which the conditional joint entropy is smaller than the threshold τ , i.e. H(Y|X)≤τ
-  for m=1 to f-1
-        F^((m))← allSubsetsOfF(F,m) 
-        foreach subset F_S^((m))  of F^((m))
-   	F_C^((m))←cartesian Product Of Subset Of Features (F_S^((m) ) )
- 	for each X={X_1,X_2,…,X_m }∈ F_C^((m))
+  for m=1 to f-1\\
+        F^((m))← allSubsetsOfF(F,m)\\ 
+        foreach subset F_S^((m))  of F^((m))\\
+   	F_C^((m))←cartesian Product Of Subset Of Features (F_S^((m) ) )\\
+ 	for each X={X_1,X_2,…,X_m }∈ F_C^((m))\\
                       for n=1 to f-1
-                             F^((n))← allSubsetsOfF(F,n) 
-                            foreach subset F_S^((n))  of F^((n))
-   	                      F_C^((n))←cartesian Product Of Subset Of Features(F_S^((n) ) )
-                                 for each Y={Y_1,Y_2,…,Y_n }∈F_C^((n))
-                                            if X∩Y=∅ and H(Y|X) ≤τ
-                                                  add the casual rule X→Y to W //X={X_1,X_2,…,X_m }→Y={Y_1,Y_2,…,Y_n }
+                             F^((n))← all Subsets Of F(F,n)\\
+                            for each subset F_S^((n))  of F^((n))\\
+   	                      F_C^((n))←cartesian Product Of Subset Of Features(F_S^((n) ) )\\
+                                 for each Y={Y_1,Y_2,…,Y_n }∈F_C^((n))\\
+                                            if X∩Y=∅ and H(Y|X) ≤τ\\
+                                                  add the casual rule X→Y to W //X={X_1,X_2,…,X_m }→Y={Y_1,Y_2,…,Y_n }[pdf.pdf](https://github.com/sama1habibi/Conditional-Entropy-Based-Causal-Discovery/files/8941392/pdf.pdf)
+
 
 
 
