@@ -1,0 +1,1160 @@
+------------------------------------
+HYX=0.0774648
+inputsMatchOnly=11
+outputsAndInputsMatchy=11
+
+Feature 1=SCHOOL, value=1
+Feature 2=CYBERSTALKING_ACHIEVING_GOAL, value=1
+=>
+Feature=YOU_HARASSED_SOMEONE, value=1
+
+------------------------------------
+HYX=0.0730465
+inputsMatchOnly=11
+outputsAndInputsMatchy=10
+
+Feature 1=SCHOOL, value=1
+Feature 2=CYBERSTALKING_ACHIEVING_GOAL, value=1
+=>
+Feature=CYBERSTALKING_PLEASURE, value=1
+
+------------------------------------
+HYX=0.0756188
+inputsMatchOnly=12
+outputsAndInputsMatchy=10
+
+Feature 1=SCHOOL, value=1
+Feature 2=CYBERSTALKING_PLEASURE, value=1
+=>
+Feature=CYBERSTALKING_ACHIEVING_GOAL, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=SCHOOL, value=2
+Feature 2=VICTIM_OF_CYBERSTALKING, value=0
+=>
+Feature=AGE, value=17
+
+------------------------------------
+HYX=0.0774648
+inputsMatchOnly=11
+outputsAndInputsMatchy=11
+
+Feature 1=SCHOOL, value=2
+Feature 2=SOCIAL_MEDIA_CYBERSTALKING, value=INSTAGRAM
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0774648
+inputsMatchOnly=11
+outputsAndInputsMatchy=11
+
+Feature 1=SCHOOL, value=2
+Feature 2=SOCIAL_MEDIA_CYBERSTALKING, value=INSTAGRAM
+=>
+Feature=GET_RID_OF_THE_CYBERSTALKER, value=1
+
+------------------------------------
+HYX=0.0781504
+inputsMatchOnly=13
+outputsAndInputsMatchy=10
+
+Feature 1=SCHOOL, value=2
+Feature 2=KNOW_THE_STALKER, value=NO
+=>
+Feature=AGE, value=17
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=SCHOOL, value=2
+Feature 2=CYBERSTALKING_ACHIEVING_GOAL, value=0
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=SCHOOL, value=2
+Feature 2=CYBERSTALKING_ACHIEVING_GOAL, value=0
+=>
+Feature=GET_RID_OF_THE_CYBERSTALKER, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=SCHOOL, value=2
+Feature 2=CYBERSTALKING_ACHIEVING_GOAL, value=0
+=>
+Feature=YOU_HARASSED_SOMEONE, value=1
+
+------------------------------------
+HYX=0.0756188
+inputsMatchOnly=12
+outputsAndInputsMatchy=10
+
+Feature 1=SCHOOL, value=2
+Feature 2=CYBERSTALKING_PLEASURE, value=0
+=>
+Feature=AGE, value=17
+
+------------------------------------
+HYX=0.0781504
+inputsMatchOnly=13
+outputsAndInputsMatchy=10
+
+Feature 1=SCHOOL, value=2
+Feature 2=CRIMINAL_OFFENSE, value=0
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0781504
+inputsMatchOnly=13
+outputsAndInputsMatchy=10
+
+Feature 1=SCHOOL, value=2
+Feature 2=CRIMINAL_OFFENSE, value=0
+=>
+Feature=GET_RID_OF_THE_CYBERSTALKER, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=SCHOOL, value=3
+Feature 2=SOCIAL_MEDIA_COMMUNICATION, value=0
+=>
+Feature=AGE, value=17
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=SCHOOL, value=3
+Feature 2=SOCIAL_MEDIA_COMMUNICATION, value=0
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=SCHOOL, value=3
+Feature 2=CYBERSTALKING_PURPOSE, value=PERSONAL ISSUES
+=>
+Feature=AGE, value=17
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=SCHOOL, value=3
+Feature 2=CYBERSTALKING_PURPOSE, value=PERSONAL ISSUES
+=>
+Feature=YOU_HARASSED_SOMEONE, value=1
+
+------------------------------------
+HYX=0.0774648
+inputsMatchOnly=11
+outputsAndInputsMatchy=11
+
+Feature 1=SCHOOL, value=3
+Feature 2=CRIMINAL_OFFENSE, value=0
+=>
+Feature=AGE, value=17
+
+------------------------------------
+HYX=0.0781504
+inputsMatchOnly=13
+outputsAndInputsMatchy=10
+
+Feature 1=GENDER, value=1
+Feature 2=SOCIAL_MEDIA_CYBERSTALKING, value=INSTAGRAM
+=>
+Feature=SOCIAL_MEDIA_COMMUNICATION, value=1
+
+------------------------------------
+HYX=0.0774648
+inputsMatchOnly=11
+outputsAndInputsMatchy=11
+
+Feature 1=GENDER, value=1
+Feature 2=FORM_OF_HARASSMENT, value=POSTING FALSE INFORMATION
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0730465
+inputsMatchOnly=11
+outputsAndInputsMatchy=10
+
+Feature 1=GENDER, value=1
+Feature 2=FORM_OF_HARASSMENT, value=POSTING FALSE INFORMATION
+=>
+Feature=GET_RID_OF_THE_CYBERSTALKER, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=GENDER, value=1
+Feature 2=CYBERSTALKING_FREQUENCY, value=2-3 MONTHS
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=GENDER, value=1
+Feature 2=CYBERSTALKING_FREQUENCY, value=2-3 MONTHS
+=>
+Feature=SOCIAL_MEDIA_COMMUNICATION, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=GENDER, value=1
+Feature 2=CYBERSTALKING_FREQUENCY, value=2-3 MONTHS
+=>
+Feature=GET_RID_OF_THE_CYBERSTALKER, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=GENDER, value=0
+Feature 2=AGE, value=15
+=>
+Feature=SCHOOL, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=GENDER, value=0
+Feature 2=SOCIAL_MEDIA_CYBERSTALKING, value=SNAPCHAT
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0774648
+inputsMatchOnly=11
+outputsAndInputsMatchy=11
+
+Feature 1=GENDER, value=0
+Feature 2=FORM_OF_HARASSMENT, value=POSTING FALSE INFORMATION
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0730465
+inputsMatchOnly=11
+outputsAndInputsMatchy=10
+
+Feature 1=GENDER, value=0
+Feature 2=FORM_OF_HARASSMENT, value=POSTING FALSE INFORMATION
+=>
+Feature=GET_RID_OF_THE_CYBERSTALKER, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=GENDER, value=0
+Feature 2=FORM_OF_HARASSMENT, value=THREATENED IN CHAT ROOMS OR COMMENTS
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=GENDER, value=0
+Feature 2=FORM_OF_HARASSMENT, value=THREATENED IN CHAT ROOMS OR COMMENTS
+=>
+Feature=GET_RID_OF_THE_CYBERSTALKER, value=1
+
+------------------------------------
+HYX=0.0781504
+inputsMatchOnly=13
+outputsAndInputsMatchy=10
+
+Feature 1=GENDER, value=0
+Feature 2=FORM_OF_HARASSMENT, value=ANY OTHER BEHAVIOR FOUNDED DISTRESSING IN ANY WAY
+=>
+Feature=GET_RID_OF_THE_CYBERSTALKER, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=GENDER, value=0
+Feature 2=KNOW_THE_STALKER, value=OTHER
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=GENDER, value=0
+Feature 2=CYBERSTALKING_PURPOSE, value=OTHER
+=>
+Feature=YOU_HARASSED_SOMEONE, value=1
+
+------------------------------------
+HYX=0.0781504
+inputsMatchOnly=13
+outputsAndInputsMatchy=10
+
+Feature 1=GENDER, value=0
+Feature 2=CYBERSTALKING_ACHIEVING_GOAL, value=0
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0781504
+inputsMatchOnly=13
+outputsAndInputsMatchy=10
+
+Feature 1=GENDER, value=0
+Feature 2=CYBERSTALKING_PLEASURE, value=1
+=>
+Feature=AGE, value=17
+
+------------------------------------
+HYX=0.0774648
+inputsMatchOnly=11
+outputsAndInputsMatchy=11
+
+Feature 1=AGE, value=17
+Feature 2=SOCIAL_MEDIA_CYBERSTALKING, value=SNAPCHAT
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0774648
+inputsMatchOnly=11
+outputsAndInputsMatchy=11
+
+Feature 1=AGE, value=17
+Feature 2=SOCIAL_MEDIA_CYBERSTALKING, value=SNAPCHAT
+=>
+Feature=GET_RID_OF_THE_CYBERSTALKER, value=1
+
+------------------------------------
+HYX=0.0756188
+inputsMatchOnly=12
+outputsAndInputsMatchy=10
+
+Feature 1=AGE, value=17
+Feature 2=FORM_OF_HARASSMENT, value=THREATENED IN CHAT ROOMS OR COMMENTS
+=>
+Feature=KNOW_THE_STALKER, value=NO
+
+------------------------------------
+HYX=0.0730465
+inputsMatchOnly=11
+outputsAndInputsMatchy=10
+
+Feature 1=AGE, value=17
+Feature 2=CYBERSTALKING_PURPOSE, value=PERSONAL ISSUES
+=>
+Feature=SCHOOL, value=3
+
+------------------------------------
+HYX=0.0774648
+inputsMatchOnly=11
+outputsAndInputsMatchy=11
+
+Feature 1=AGE, value=17
+Feature 2=CYBERSTALKING_PURPOSE, value=PERSONAL ISSUES
+=>
+Feature=YOU_HARASSED_SOMEONE, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=AGE, value=15
+Feature 2=YOU_HARASSED_SOMEONE, value=0
+=>
+Feature=SCHOOL, value=1
+
+------------------------------------
+HYX=0.0730465
+inputsMatchOnly=11
+outputsAndInputsMatchy=10
+
+Feature 1=VICTIM_OF_CYBERSTALKING, value=0
+Feature 2=CYBERSTALKING_PLEASURE, value=0
+=>
+Feature=AGE, value=17
+
+------------------------------------
+HYX=0.0774648
+inputsMatchOnly=11
+outputsAndInputsMatchy=11
+
+Feature 1=VICTIM_OF_CYBERSTALKING, value=0
+Feature 2=CYBERSTALKING_PLEASURE, value=0
+=>
+Feature=YOU_HARASSED_SOMEONE, value=1
+
+------------------------------------
+HYX=0.0774648
+inputsMatchOnly=11
+outputsAndInputsMatchy=11
+
+Feature 1=VICTIM_OF_CYBERSTALKING, value=0
+Feature 2=CYBERSTALKING_PLEASURE, value=1
+=>
+Feature=YOU_HARASSED_SOMEONE, value=1
+
+------------------------------------
+HYX=0.0774648
+inputsMatchOnly=11
+outputsAndInputsMatchy=11
+
+Feature 1=VICTIM_OF_CYBERSTALKING, value=0
+Feature 2=CYBERSTALKING_PLEASURE, value=1
+=>
+Feature=CYBERSTALKING_ACHIEVING_GOAL, value=1
+
+------------------------------------
+HYX=0.0730465
+inputsMatchOnly=11
+outputsAndInputsMatchy=10
+
+Feature 1=VICTIM_OF_CYBERSTALKING, value=1
+Feature 2=KNOW_THE_STALKER, value=FRIEND
+=>
+Feature=SOCIAL_MEDIA_COMMUNICATION, value=1
+
+------------------------------------
+HYX=0.0730465
+inputsMatchOnly=11
+outputsAndInputsMatchy=10
+
+Feature 1=VICTIM_OF_CYBERSTALKING, value=1
+Feature 2=KNOW_THE_STALKER, value=FRIEND
+=>
+Feature=GET_RID_OF_THE_CYBERSTALKER, value=1
+
+------------------------------------
+HYX=0.0781504
+inputsMatchOnly=13
+outputsAndInputsMatchy=10
+
+Feature 1=VICTIM_OF_CYBERSTALKING, value=1
+Feature 2=CYBERSTALKING_FREQUENCY, value=2-3 MONTHS
+=>
+Feature=GENDER, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=VICTIM_OF_CYBERSTALKING, value=1
+Feature 2=CYBERSTALKING_FREQUENCY, value=WEEKLY
+=>
+Feature=GET_RID_OF_THE_CYBERSTALKER, value=1
+
+------------------------------------
+HYX=0.0781504
+inputsMatchOnly=13
+outputsAndInputsMatchy=10
+
+Feature 1=VICTIM_OF_CYBERSTALKING, value=1
+Feature 2=CYBERSTALKING_PURPOSE, value=FOR GOSSIP IN GROUP CHATS
+=>
+Feature=GENDER, value=0
+
+------------------------------------
+HYX=0.0781504
+inputsMatchOnly=13
+outputsAndInputsMatchy=10
+
+Feature 1=VICTIM_OF_CYBERSTALKING, value=1
+Feature 2=CYBERSTALKING_PURPOSE, value=FOR GOSSIP IN GROUP CHATS
+=>
+Feature=SOCIAL_MEDIA_COMMUNICATION, value=1
+
+------------------------------------
+HYX=0.0781504
+inputsMatchOnly=13
+outputsAndInputsMatchy=10
+
+Feature 1=VICTIM_OF_CYBERSTALKING, value=1
+Feature 2=CYBERSTALKING_PURPOSE, value=FOR GOSSIP IN GROUP CHATS
+=>
+Feature=CYBERSTALKING_ACHIEVING_GOAL, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=VICTIM_OF_CYBERSTALKING, value=1
+Feature 2=CYBERSTALKING_PURPOSE, value=OTHER
+=>
+Feature=YOU_HARASSED_SOMEONE, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=VICTIM_OF_CYBERSTALKING, value=1
+Feature 2=CYBERSTALKING_PURPOSE, value=OTHER
+=>
+Feature=CYBERSTALKING_PLEASURE, value=0
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=SOCIAL_MEDIA_CYBERSTALKING, value=INSTAGRAM
+Feature 2=FORM_OF_HARASSMENT, value=POSTING FALSE INFORMATION
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=SOCIAL_MEDIA_CYBERSTALKING, value=INSTAGRAM
+Feature 2=FORM_OF_HARASSMENT, value=POSTING FALSE INFORMATION
+=>
+Feature=GET_RID_OF_THE_CYBERSTALKER, value=1
+
+------------------------------------
+HYX=0.0781504
+inputsMatchOnly=13
+outputsAndInputsMatchy=10
+
+Feature 1=SOCIAL_MEDIA_CYBERSTALKING, value=INSTAGRAM
+Feature 2=YOU_HARASSED_SOMEONE, value=1
+=>
+Feature=AGE, value=17
+
+------------------------------------
+HYX=0.0774648
+inputsMatchOnly=11
+outputsAndInputsMatchy=11
+
+Feature 1=SOCIAL_MEDIA_CYBERSTALKING, value=SNAPCHAT
+Feature 2=GET_RID_OF_THE_CYBERSTALKER, value=1
+=>
+Feature=AGE, value=17
+
+------------------------------------
+HYX=0.0774648
+inputsMatchOnly=11
+outputsAndInputsMatchy=11
+
+Feature 1=SOCIAL_MEDIA_CYBERSTALKING, value=SNAPCHAT
+Feature 2=GET_RID_OF_THE_CYBERSTALKER, value=1
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=SOCIAL_MEDIA_CYBERSTALKING, value=SNAPCHAT
+Feature 2=YOU_HARASSED_SOMEONE, value=1
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0774648
+inputsMatchOnly=11
+outputsAndInputsMatchy=11
+
+Feature 1=FORM_OF_HARASSMENT, value=POSTING FALSE INFORMATION
+Feature 2=KNOW_THE_STALKER, value=NO
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0730465
+inputsMatchOnly=11
+outputsAndInputsMatchy=10
+
+Feature 1=FORM_OF_HARASSMENT, value=POSTING FALSE INFORMATION
+Feature 2=KNOW_THE_STALKER, value=NO
+=>
+Feature=GET_RID_OF_THE_CYBERSTALKER, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=FORM_OF_HARASSMENT, value=POSTING FALSE INFORMATION
+Feature 2=YOU_HARASSED_SOMEONE, value=0
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=FORM_OF_HARASSMENT, value=POSTING FALSE INFORMATION
+Feature 2=YOU_HARASSED_SOMEONE, value=0
+=>
+Feature=GET_RID_OF_THE_CYBERSTALKER, value=1
+
+------------------------------------
+HYX=0.0756188
+inputsMatchOnly=12
+outputsAndInputsMatchy=10
+
+Feature 1=FORM_OF_HARASSMENT, value=POSTING FALSE INFORMATION
+Feature 2=YOU_HARASSED_SOMEONE, value=1
+=>
+Feature=GET_RID_OF_THE_CYBERSTALKER, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=FORM_OF_HARASSMENT, value=POSTING FALSE INFORMATION
+Feature 2=CRIMINAL_OFFENSE, value=0
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0730465
+inputsMatchOnly=11
+outputsAndInputsMatchy=10
+
+Feature 1=FORM_OF_HARASSMENT, value=THREATENED IN CHAT ROOMS OR COMMENTS
+Feature 2=KNOW_THE_STALKER, value=NO
+=>
+Feature=AGE, value=17
+
+------------------------------------
+HYX=0.0774648
+inputsMatchOnly=11
+outputsAndInputsMatchy=11
+
+Feature 1=FORM_OF_HARASSMENT, value=THREATENED IN CHAT ROOMS OR COMMENTS
+Feature 2=KNOW_THE_STALKER, value=NO
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0774648
+inputsMatchOnly=11
+outputsAndInputsMatchy=11
+
+Feature 1=FORM_OF_HARASSMENT, value=THREATENED IN CHAT ROOMS OR COMMENTS
+Feature 2=KNOW_THE_STALKER, value=NO
+=>
+Feature=GET_RID_OF_THE_CYBERSTALKER, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=FORM_OF_HARASSMENT, value=THREATENED IN CHAT ROOMS OR COMMENTS
+Feature 2=SOCIAL_MEDIA_COMMUNICATION, value=1
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=FORM_OF_HARASSMENT, value=THREATENED IN CHAT ROOMS OR COMMENTS
+Feature 2=SOCIAL_MEDIA_COMMUNICATION, value=1
+=>
+Feature=GET_RID_OF_THE_CYBERSTALKER, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=FORM_OF_HARASSMENT, value=THREATENED IN CHAT ROOMS OR COMMENTS
+Feature 2=CRIMINAL_OFFENSE, value=1
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=FORM_OF_HARASSMENT, value=THREATENED IN CHAT ROOMS OR COMMENTS
+Feature 2=CRIMINAL_OFFENSE, value=1
+=>
+Feature=GET_RID_OF_THE_CYBERSTALKER, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=FORM_OF_HARASSMENT, value=ANY OTHER BEHAVIOR FOUNDED DISTRESSING IN ANY WAY
+Feature 2=SOCIAL_MEDIA_COMMUNICATION, value=1
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=FORM_OF_HARASSMENT, value=ANY OTHER BEHAVIOR FOUNDED DISTRESSING IN ANY WAY
+Feature 2=YOU_HARASSED_SOMEONE, value=1
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0756188
+inputsMatchOnly=12
+outputsAndInputsMatchy=10
+
+Feature 1=KNOW_THE_STALKER, value=NO
+Feature 2=CYBERSTALKING_ACHIEVING_GOAL, value=0
+=>
+Feature=GET_RID_OF_THE_CYBERSTALKER, value=1
+
+------------------------------------
+HYX=0.0756188
+inputsMatchOnly=12
+outputsAndInputsMatchy=10
+
+Feature 1=KNOW_THE_STALKER, value=NO
+Feature 2=CYBERSTALKING_ACHIEVING_GOAL, value=0
+=>
+Feature=CYBERSTALKING_PLEASURE, value=0
+
+------------------------------------
+HYX=0.0774648
+inputsMatchOnly=11
+outputsAndInputsMatchy=11
+
+Feature 1=KNOW_THE_STALKER, value=NO
+Feature 2=CYBERSTALKING_PLEASURE, value=0
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0774648
+inputsMatchOnly=11
+outputsAndInputsMatchy=11
+
+Feature 1=KNOW_THE_STALKER, value=NO
+Feature 2=CYBERSTALKING_PLEASURE, value=0
+=>
+Feature=YOU_HARASSED_SOMEONE, value=1
+
+------------------------------------
+HYX=0.0730465
+inputsMatchOnly=11
+outputsAndInputsMatchy=10
+
+Feature 1=KNOW_THE_STALKER, value=NO
+Feature 2=CYBERSTALKING_PLEASURE, value=0
+=>
+Feature=CYBERSTALKING_ACHIEVING_GOAL, value=0
+
+------------------------------------
+HYX=0.0756188
+inputsMatchOnly=12
+outputsAndInputsMatchy=10
+
+Feature 1=KNOW_THE_STALKER, value=NO
+Feature 2=CRIMINAL_OFFENSE, value=0
+=>
+Feature=AGE, value=17
+
+------------------------------------
+HYX=0.0781504
+inputsMatchOnly=13
+outputsAndInputsMatchy=10
+
+Feature 1=KNOW_THE_STALKER, value=OTHER
+Feature 2=GET_RID_OF_THE_CYBERSTALKER, value=1
+=>
+Feature=CRIMINAL_OFFENSE, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=KNOW_THE_STALKER, value=OTHER
+Feature 2=YOU_HARASSED_SOMEONE, value=1
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=KNOW_THE_STALKER, value=OTHER
+Feature 2=CRIMINAL_OFFENSE, value=1
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=KNOW_THE_STALKER, value=OTHER
+Feature 2=CRIMINAL_OFFENSE, value=1
+=>
+Feature=GET_RID_OF_THE_CYBERSTALKER, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=KNOW_THE_STALKER, value=FRIEND
+Feature 2=SOCIAL_MEDIA_COMMUNICATION, value=1
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=KNOW_THE_STALKER, value=FRIEND
+Feature 2=GET_RID_OF_THE_CYBERSTALKER, value=1
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0781504
+inputsMatchOnly=13
+outputsAndInputsMatchy=10
+
+Feature 1=SOCIAL_MEDIA_COMMUNICATION, value=1
+Feature 2=CYBERSTALKING_FREQUENCY, value=2-3 MONTHS
+=>
+Feature=GENDER, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=SOCIAL_MEDIA_COMMUNICATION, value=1
+Feature 2=CYBERSTALKING_PURPOSE, value=FOR GOSSIP IN GROUP CHATS
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=SOCIAL_MEDIA_COMMUNICATION, value=1
+Feature 2=CYBERSTALKING_PURPOSE, value=FOR GOSSIP IN GROUP CHATS
+=>
+Feature=YOU_HARASSED_SOMEONE, value=1
+
+------------------------------------
+HYX=0.0756188
+inputsMatchOnly=12
+outputsAndInputsMatchy=10
+
+Feature 1=SOCIAL_MEDIA_COMMUNICATION, value=1
+Feature 2=CYBERSTALKING_ACHIEVING_GOAL, value=1
+=>
+Feature=AGE, value=17
+
+------------------------------------
+HYX=0.0756188
+inputsMatchOnly=12
+outputsAndInputsMatchy=10
+
+Feature 1=SOCIAL_MEDIA_COMMUNICATION, value=1
+Feature 2=CYBERSTALKING_ACHIEVING_GOAL, value=1
+=>
+Feature=GET_RID_OF_THE_CYBERSTALKER, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=SOCIAL_MEDIA_COMMUNICATION, value=1
+Feature 2=CYBERSTALKING_ACHIEVING_GOAL, value=0
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=SOCIAL_MEDIA_COMMUNICATION, value=1
+Feature 2=CYBERSTALKING_ACHIEVING_GOAL, value=0
+=>
+Feature=YOU_HARASSED_SOMEONE, value=1
+
+------------------------------------
+HYX=0.0730465
+inputsMatchOnly=11
+outputsAndInputsMatchy=10
+
+Feature 1=SOCIAL_MEDIA_COMMUNICATION, value=1
+Feature 2=CYBERSTALKING_PLEASURE, value=0
+=>
+Feature=AGE, value=17
+
+------------------------------------
+HYX=0.0774648
+inputsMatchOnly=11
+outputsAndInputsMatchy=11
+
+Feature 1=SOCIAL_MEDIA_COMMUNICATION, value=1
+Feature 2=CYBERSTALKING_PLEASURE, value=0
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0774648
+inputsMatchOnly=11
+outputsAndInputsMatchy=11
+
+Feature 1=SOCIAL_MEDIA_COMMUNICATION, value=1
+Feature 2=CYBERSTALKING_PLEASURE, value=0
+=>
+Feature=YOU_HARASSED_SOMEONE, value=1
+
+------------------------------------
+HYX=0.0774648
+inputsMatchOnly=11
+outputsAndInputsMatchy=11
+
+Feature 1=SOCIAL_MEDIA_COMMUNICATION, value=1
+Feature 2=CYBERSTALKING_PLEASURE, value=1
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0730465
+inputsMatchOnly=11
+outputsAndInputsMatchy=10
+
+Feature 1=SOCIAL_MEDIA_COMMUNICATION, value=1
+Feature 2=CYBERSTALKING_PLEASURE, value=1
+=>
+Feature=GET_RID_OF_THE_CYBERSTALKER, value=1
+
+------------------------------------
+HYX=0.0774648
+inputsMatchOnly=11
+outputsAndInputsMatchy=11
+
+Feature 1=SOCIAL_MEDIA_COMMUNICATION, value=1
+Feature 2=CYBERSTALKING_PLEASURE, value=1
+=>
+Feature=YOU_HARASSED_SOMEONE, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=SOCIAL_MEDIA_COMMUNICATION, value=0
+Feature 2=YOU_HARASSED_SOMEONE, value=0
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0774648
+inputsMatchOnly=11
+outputsAndInputsMatchy=11
+
+Feature 1=SOCIAL_MEDIA_COMMUNICATION, value=0
+Feature 2=CYBERSTALKING_PLEASURE, value=0
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0774648
+inputsMatchOnly=11
+outputsAndInputsMatchy=11
+
+Feature 1=SOCIAL_MEDIA_COMMUNICATION, value=0
+Feature 2=CYBERSTALKING_PLEASURE, value=0
+=>
+Feature=YOU_HARASSED_SOMEONE, value=1
+
+------------------------------------
+HYX=0.0756188
+inputsMatchOnly=12
+outputsAndInputsMatchy=10
+
+Feature 1=CYBERSTALKING_FREQUENCY, value=2-3 MONTHS
+Feature 2=GET_RID_OF_THE_CYBERSTALKER, value=1
+=>
+Feature=GENDER, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=CYBERSTALKING_FREQUENCY, value=WEEKLY
+Feature 2=GET_RID_OF_THE_CYBERSTALKER, value=1
+=>
+Feature=VICTIM_OF_CYBERSTALKING, value=1
+
+------------------------------------
+HYX=0.0756188
+inputsMatchOnly=12
+outputsAndInputsMatchy=10
+
+Feature 1=GET_RID_OF_THE_CYBERSTALKER, value=1
+Feature 2=CYBERSTALKING_PURPOSE, value=FOR GOSSIP IN GROUP CHATS
+=>
+Feature=GENDER, value=0
+
+------------------------------------
+HYX=0.0781504
+inputsMatchOnly=13
+outputsAndInputsMatchy=10
+
+Feature 1=GET_RID_OF_THE_CYBERSTALKER, value=1
+Feature 2=CYBERSTALKING_PLEASURE, value=1
+=>
+Feature=SOCIAL_MEDIA_COMMUNICATION, value=1
+
+------------------------------------
+HYX=0.0781504
+inputsMatchOnly=13
+outputsAndInputsMatchy=10
+
+Feature 1=GET_RID_OF_THE_CYBERSTALKER, value=1
+Feature 2=CYBERSTALKING_PLEASURE, value=1
+=>
+Feature=CYBERSTALKING_ACHIEVING_GOAL, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=CYBERSTALKING_PURPOSE, value=PERSONAL ISSUES
+Feature 2=CRIMINAL_OFFENSE, value=1
+=>
+Feature=YOU_HARASSED_SOMEONE, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=CYBERSTALKING_PURPOSE, value=FOR GOSSIP IN GROUP CHATS
+Feature 2=CYBERSTALKING_PLEASURE, value=1
+=>
+Feature=YOU_HARASSED_SOMEONE, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=CYBERSTALKING_PURPOSE, value=FOR GOSSIP IN GROUP CHATS
+Feature 2=CRIMINAL_OFFENSE, value=1
+=>
+Feature=AGE, value=17
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=CYBERSTALKING_PURPOSE, value=FOR GOSSIP IN GROUP CHATS
+Feature 2=CRIMINAL_OFFENSE, value=1
+=>
+Feature=YOU_HARASSED_SOMEONE, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=CYBERSTALKING_PURPOSE, value=OTHER
+Feature 2=CYBERSTALKING_ACHIEVING_GOAL, value=0
+=>
+Feature=YOU_HARASSED_SOMEONE, value=1
+
+------------------------------------
+HYX=0.0704225
+inputsMatchOnly=10
+outputsAndInputsMatchy=10
+
+Feature 1=CYBERSTALKING_PURPOSE, value=OTHER
+Feature 2=CYBERSTALKING_ACHIEVING_GOAL, value=0
+=>
+Feature=CYBERSTALKING_PLEASURE, value=0
+
+------------------------------------
+HYX=0.0781504
+inputsMatchOnly=13
+outputsAndInputsMatchy=10
+
+Feature 1=CYBERSTALKING_PURPOSE, value=OTHER
+Feature 2=CRIMINAL_OFFENSE, value=1
+=>
+Feature=AGE, value=17
+
+------------------------------------
+HYX=0.0774648
+inputsMatchOnly=11
+outputsAndInputsMatchy=11
+
+Feature 1=CYBERSTALKING_PLEASURE, value=1
+Feature 2=CRIMINAL_OFFENSE, value=0
+=>
+Feature=YOU_HARASSED_SOMEONE, value=1
+
